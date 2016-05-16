@@ -1,6 +1,6 @@
 # CI Michelf Mardown
 
-Helpers Markdown untuk Codeigniter 3.0, berdasarkan (https://github.com/michelf/php-markdown)[1]
+Helpers Markdown untuk Codeigniter 3.0, berdasarkan [https://github.com/michelf/php-markdown][1]
 
 ## Instalasi
 
