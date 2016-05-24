@@ -9,7 +9,7 @@ if ( ! function_exists('markdown_extra_decode'))
 {
     function markdown_extra_decode($text)
     {
-        return Markdown::defaultTransform($text);
+        return Michelf\Markdown::defaultTransform($text);
     }
 }
 
