@@ -4,8 +4,9 @@ Helpers Markdown untuk Codeigniter 3.0, berdasarkan [https://github.com/michelf/
 
 ## Instalasi
 
-Copy folder application ke folder application proyek Anda.
-
+1. Copy folder application ke folder application proyek Anda.
+2. Download dan extract [https://github.com/michelf/php-markdown][1]
+3. Copy php-markdown ke folder application/third_party
 
 ## Contoh Penggunaan
 
